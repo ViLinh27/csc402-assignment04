@@ -1,0 +1,22 @@
+<student>
+<name>
+<first-name>
+John
+</first-name>
+<last-name>
+Doe
+</last-name>
+</name>
+<address>
+<street>
+111 Elm Street
+</street>
+<city>
+Joliet
+</city>
+<state>
+Illinois
+</state>
+<zip-code>
+60435
+</zip-code>
